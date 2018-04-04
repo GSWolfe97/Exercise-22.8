@@ -2,7 +2,7 @@
 Write a program that finds all prime numbers up to 10,000,000,000. There are approximately 455,052,511 such prime numbers.
 
 ## Example Output
-![Sample Output](README.png)
+![Sample Output](ReadMe.png)
 
 ## Analysis Steps
 
